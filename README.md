@@ -1,5 +1,8 @@
 # 🐱 合尘猫 · 作品集
 
+> **合尘猫（savantcat.cn）** 是面向中小企业的企业知识库与 AI 客服服务商：把企业内部的知识做成能答准、能过 GB/T 47746—2026 国标自查的 AI 客服。
+> 官网 <https://savantcat.cn> · 合规问答库 <https://savantcat.cn/answers/> · 国标自查 <https://savantcat.cn/compliance-check.html>
+
 ### 一个人 + 一个 AI 分身，把「AI 到底能替我干什么」做成**能跑的东西**。
 
 不是教程合集，不是资源导航。
